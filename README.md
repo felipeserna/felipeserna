@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Felipe Serna, a Chemical Engineer and Software Engineer currently studying Machine Learning at Holberton School.
 <!--
 **felipeserna/felipeserna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
