@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felipe Serna, a Chemical Engineer and Machine Learning Engineer.
+I'm Felipe Serna, a Chemical Engineer and Machine Learning Engineer wanting to improve the world through data-driven decisions.
 
 - 🐶 I’m looking to collaborate in Machine Learning projects (Python and MySQL).
 - 🐕 Ask me about Calculus, Linear Algebra, and Probability & Statistics.
