@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felipe Serna, a Chemical Engineer and Machine Learning Engineer wanting to improve the world through data-driven decisions. Machine Learning without bias is the only way to build equal opportunities for everybody.
+I'm Felipe Serna, a Chemical Engineer and Machine Learning Engineer wanting to improve the world through data-driven decisions. Machine Learning without bias is the best way to build equal opportunities for everybody.
 
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
