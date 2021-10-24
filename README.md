@@ -3,7 +3,7 @@ I'm Felipe Serna, a Machine Learning Engineer and Chemical Engineer wanting to i
 
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
-- 🐶 I’m looking to collaborate in Machine Learning projects (Python, Java, and MySQL).
+- 🐶 I’m looking to collaborate in Machine Learning projects (Python and MySQL).
 - 🐕 Ask me about Calculus, Linear Algebra, and Probability & Statistics.
 - :bear: How to reach me: feserna86@gmail.com<br>
 - :shark: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
