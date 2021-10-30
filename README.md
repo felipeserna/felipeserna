@@ -6,8 +6,7 @@ I'm Felipe Serna, a Machine Learning Engineer and Chemical Engineer wanting to i
 - 🐶 I’m looking to collaborate in Machine Learning projects (Python and MySQL).
 - 🐕 Ask me about Calculus, Linear Algebra, and Probability & Statistics.
 - :bear: How to reach me: feserna86@gmail.com<br>
-- :shark: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
-- :wolf: Fun fact: I can help you with Numerical Methods and Differential Equations.
+- :wolf: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
 ## Technologies
 <img align="left" alt="Linux" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
