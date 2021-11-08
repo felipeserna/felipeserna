@@ -3,7 +3,7 @@ I'm Felipe Serna, a Machine Learning Engineer and Chemical Engineer wanting to i
 
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
-- 🐶 I’m looking to collaborate in Machine Learning projects (Python and MySQL).
+- 🐶 I’m looking to collaborate in Machine Learning projects (Python, MySQL, and MongoDB).
 - 🐕 Ask me about Calculus, Linear Algebra, and Probability & Statistics.
 - :bear: How to reach me: feserna86@gmail.com<br>
 - :wolf: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
@@ -15,6 +15,7 @@ I'm Felipe Serna, a Machine Learning Engineer and Chemical Engineer wanting to i
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vim" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br><br><br>
