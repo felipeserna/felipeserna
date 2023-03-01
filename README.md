@@ -4,7 +4,7 @@ I'm Felipe Serna, a Full Stack Developer (.NET | Angular).
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
 - 🐶 I’m looking to collaborate in Full Stack projects (.NET | Angular).
-- 🐕 Ask me about Calculus, Linear Algebra, and Probability & Statistics.
+- 🐕 Ask me about OOP and SOLID.
 - :bear: How to reach me: feserna86@gmail.com<br>
 - :wolf: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
 - :elephant: [Visit my GitLab](https://gitlab.com/felipeserna)
