@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felipe Serna, a Full Stack Developer (.NET | Angular). I also have knowledge in Machine Learning (Python).
+I'm Felipe Serna, a Full Stack Developer (.NET | Angular).
 
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
