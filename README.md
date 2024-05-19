@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felipe Serna, a .NET Developer with experience in backend, frontend, SQL and NoSQL databases.
+I'm Felipe Serna, a Software Developer with experience in backend, frontend, SQL and NoSQL databases.
 
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
