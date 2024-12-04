@@ -4,7 +4,6 @@ I'm Felipe Serna, a Software Developer with experience in backend, frontend, SQL
 [1]: https://www.linkedin.com/in/felipesernabarbosa/
 
 - :wolf: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
-- :elephant: [Visit my GitLab](https://gitlab.com/felipeserna)
 
 ## Featured Blog Posts
 * ["More"​ data for training your model. And it's free!](https://www.linkedin.com/feed/update/urn:li:ugcPost:6831030429282275328?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6831030429282275328%29)<br>
